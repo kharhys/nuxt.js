@@ -8,7 +8,8 @@
 </template>
 
 <script>
-import Vue from 'vue'
+// import Vue from 'vue'
+import Vue from 'nativescript-vue'
 
 export default {
   name: 'nuxt-loading',
